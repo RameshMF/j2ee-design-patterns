@@ -1,0 +1,9 @@
+com\ramesh\businessdelegate\Client.class
+com\ramesh\businessdelegate\EjbService.class
+com\ramesh\businessdelegate\JmsService.class
+com\ramesh\businessdelegate\ServiceType.class
+com\ramesh\businessdelegate\BusinessService.class
+com\ramesh\businessdelegate\BusinessDelegate.class
+com\ramesh\businessdelegate\BusinessLookup.class
+com\ramesh\businessdelegate\App.class
+com\ramesh\businessdelegate\EmailService.class
